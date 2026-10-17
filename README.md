@@ -1,5 +1,28 @@
-# Dream World ?쒗뿕??n
-- ?ㅼ슫濡쒕뱶: [https://inspiration-impact-bring-reservations.trycloudflare.com/download](https://inspiration-impact-bring-reservations.trycloudflare.com/download)
-- ?쒕쾭 ?곹깭: 2026-10-17T13:21:27Z 湲곗??쇰줈 耳쒖졇 ?덉쓬
+# Dream World 시험판
 
-?뺤텞???怨?DreamWorld.exe瑜??ㅽ뻾?섏꽭?? ?먯꽭???덈궡???뺤텞 ?덉쓽 ?ъ슜踰?txt???덉뒿?덈떎.
+떠올린 단어 4~10개를 넣으면, AI가 단어 사이의 관계를 정하고 그 관계대로 3D 공간을 만들어 보여 주는 Windows 앱입니다.
+
+## 내려받기
+
+**[DreamWorld-trial.zip 내려받기](https://ongoing-prozac-aircraft-pennsylvania.trycloudflare.com/download)** (약 50 MB)
+
+서버 상태: 2026-10-17T14:08:45Z (UTC)에 켜짐. 내려받기가 열리지 않으면 서버가 잠시 꺼져 있는 것이니, 조금 뒤 이 페이지를 새로 고쳐 주세요.
+
+## 실행 방법
+
+1. 받은 zip 파일을 원하는 폴더에 압축 해제합니다. (zip 안에서 바로 실행하면 안 됩니다.)
+2. DreamWorld.exe를 실행합니다.
+3. Windows가 'PC 보호' 경고를 띄우면 '추가 정보'를 누른 뒤 '실행'을 누릅니다. 시험판이라 코드 서명이 없어서 뜨는 경고입니다.
+4. 단어를 4~10개 넣고 '공간 만들기'를 누릅니다. 1~3분쯤 걸립니다.
+5. ① 관계 공간과 ② 세부 공간을 오가며 보고, 단어 버튼을 누르면 그 단어를 어떻게 표현했는지 볼 수 있습니다.
+
+## 시험판 안내
+
+- 공간 만들기는 한 사람당 3번까지입니다. 만든 공간에 단어를 더하는 것은 공간마다 5번까지입니다. 만들기에 실패하면 횟수가 줄지 않습니다.
+- 인터넷 연결이 필요합니다. 입력한 단어는 공간을 만들기 위해 시험 서버와 OpenAI로 전송됩니다. 이름, 연락처 같은 개인정보는 넣지 마세요.
+- 사양: Windows 10/11 64비트, DirectX 11 이상 그래픽카드.
+- Python이나 API 키는 필요 없습니다.
+
+## 의견 보내기
+
+이상하게 배치된 장면을 보셨다면, 넣은 단어와 화면 캡처를 이 시험판을 전해 준 사람에게 보내 주세요. 다음 수정에 그대로 반영합니다.
