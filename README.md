@@ -1,5 +1,5 @@
 # Dream World ?쒗뿕??n
-- ?ㅼ슫濡쒕뱶: [https://sky-phd-lopez-mitsubishi.trycloudflare.com/download](https://sky-phd-lopez-mitsubishi.trycloudflare.com/download)
-- ?쒕쾭 ?곹깭: 2026-10-17T08:27:54Z 湲곗??쇰줈 耳쒖졇 ?덉쓬
+- ?ㅼ슫濡쒕뱶: [https://inspiration-impact-bring-reservations.trycloudflare.com/download](https://inspiration-impact-bring-reservations.trycloudflare.com/download)
+- ?쒕쾭 ?곹깭: 2026-10-17T13:21:27Z 湲곗??쇰줈 耳쒖졇 ?덉쓬
 
 ?뺤텞???怨?DreamWorld.exe瑜??ㅽ뻾?섏꽭?? ?먯꽭???덈궡???뺤텞 ?덉쓽 ?ъ슜踰?txt???덉뒿?덈떎.
